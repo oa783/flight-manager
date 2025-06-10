@@ -2,7 +2,7 @@
 Some constants for the Flight Management System
 """
 
-DB_PATH = "flight_management_test.db"
+DB_PATH = "flight_management.db"
 
 VALID_STATUSES = {'Scheduled', 'Boarding', 'Departed', 'Cancelled', 'Delayed'}
 VALID_RANKS = {'Captain', 'First Officer'}
