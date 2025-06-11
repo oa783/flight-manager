@@ -2,6 +2,8 @@
 
 A CLI application for managing airline operations.
 
+.db file is created by running main.py, reset on each run.
+
 src/
 ├── main.py
 ├── database.py
